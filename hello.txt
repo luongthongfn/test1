@@ -1,5 +1,5 @@
 hello this is hello.txt
-clgt
+clgt // edit line 2 in test2
 asdas d
 asd asdas
 asdasdas
