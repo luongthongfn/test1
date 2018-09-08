@@ -1,5 +1,5 @@
 hello this is hello.txt // edit line1 in test1
-clgt
+clgt // edit line 2 in test2
 asdas d
 asd asdas
 asdasdas
@@ -7,4 +7,5 @@ asdasd
 asdasdasd
 asdasdasd
 asdasdasd
+add line 10 in test2
 add line 10 in test1
